@@ -1,0 +1,2 @@
+Name: San Shome Number of Hours Worked: 10 Wage per Hours: 20 Total Income: 200
+Name: San Two Number of Hours Worked: 15 Wage per Hours: 20 Total Income: 300
