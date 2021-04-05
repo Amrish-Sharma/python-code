@@ -8,7 +8,7 @@ url = "https://www.fast2sms.com/dev/bulk"
 
 payload = "sender_id=FSTSMS&message={0}&language=english&route=p&numbers={1}".format(message,phonenumber)
 headers = {
-    'authorization': "Iw1GCUNjSz3td8Mo5vErHF40mYbeAXOcpynsf9T2VhaP7ZQR6qtlwx0PKEegzVpHvBmR1TuZcyaQOUqS",
+    'authorization': "<ENTER YOUR AUTHORIZATION CODE FROM FAST2SMS>",
     'Content-Type': "application/x-www-form-urlencoded",
     'Cache-Control': "no-cache",
     }
